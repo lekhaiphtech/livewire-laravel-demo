@@ -1,5 +1,8 @@
 Please find working video here :-
-https://github.com/lekhaiphtech/livewire-laravel-demo/assets/82495417/eaf2abdc-ea41-4bb3-a692-cdef88136980
+
+<iframe src="https://github.com/lekhaiphtech/livewire-laravel-demo/assets/82495417/eaf2abdc-ea41-4bb3-a692-cdef88136980"></iframe>
+<video src="https://github.com/lekhaiphtech/livewire-laravel-demo/assets/82495417/eaf2abdc-ea41-4bb3-a692-cdef88136980"></video>
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
